@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Arturo\Documents\Proyectos Android\PhpImageUpload\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="93e6fcd459e20c6bbbcc250b3aa60b5f06bfa839">
+        <dex dex="C:\Users\Arturo\Documents\Proyectos Android\PhpImageUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d5bd37fb9e7a5c581ed4bf742288c0e3baf79dec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Arturo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Arturo\Documents\Proyectos Android\PhpImageUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_e2ad9c7b7565185c4787a676d22794f24909a644\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Arturo\Documents\Proyectos Android\PhpImageUpload\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Arturo\Documents\Proyectos Android\PhpImageUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-19.1.0_ce6e8f832d9241e516149c8fd56115a6bfd376ee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Arturo\Documents\Proyectos Android\PhpImageUpload\app\libs\android-async-http-1.4.4.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="C:\Users\Arturo\Documents\Proyectos Android\PhpImageUpload\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.4_33e4d5ed472b0b03a3daa8f8046e0b5693a1933a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Arturo\Documents\Proyectos Android\PhpImageUpload\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7cf80aa933f427e549801f50f1b90d1348d5dd60">
+        <dex dex="C:\Users\Arturo\Documents\Proyectos Android\PhpImageUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8e066d4e267ecc55531271d05fae6ef69218bcf0\classes.dex" />
+    </item>
+
+</items>

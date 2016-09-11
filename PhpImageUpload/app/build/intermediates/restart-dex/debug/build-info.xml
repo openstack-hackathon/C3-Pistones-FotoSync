@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="33314611325650"
+    token="-7012975068720509602" >
+
+    <task
+        name="javac"
+        duration="269" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="228" />
+    <task
+        name="verifier"
+        duration="72" />
+
+    <artifact
+        location="C:\Users\Arturo\Documents\Proyectos Android\PhpImageUpload\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="33314611325650" >
+        <artifact
+            location="C:\Users\Arturo\Documents\Proyectos Android\PhpImageUpload\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
